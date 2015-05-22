@@ -1,4 +1,4 @@
-	
+Kim Egenvall, Carl Fredriksson
 CREATE OR REPLACE VIEW StudentsFollowing AS
 SELECT Students.id, Students.name,Students.program,Programs.name AS programname,branch
 	FROM Students JOIN Programs ON Students.program = Programs.name
