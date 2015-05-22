@@ -1,15 +1,5 @@
-/* README
-From comment on reject:
-Registration trigger
-====================
-* In the second query, a student should be able to register for a failed course, use PassedCourses
-
-
-- PassedCourses is already being used, and a student that has failed a course is able
-to register for the course again. I tried it on the web interface.
-So this is the same file again.
-
-
+/* 
+Kim Egenvall, Carl Fredriksson
 
 
 */
