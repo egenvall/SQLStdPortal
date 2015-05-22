@@ -1,8 +1,4 @@
-Kim Egenvall, Carl Fredriksson Group 39.
-Update: Fixed constraint for name, updated insert, updated join in views.
-Last version got mixed up files when transferring from pc to mac.
-PathToGraduation has not been changed since If i understood we did not have to change it
-if it works?
+Kim Egenvall, Carl Fredriksson
 
 
 begin
